@@ -1,7 +1,7 @@
 .heading {
   padding: 10px;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  transform: translate(35%, 0);
+  margin-left: 530px;
 }
 .outline {
   background-color: gold;
